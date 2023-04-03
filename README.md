@@ -6,13 +6,11 @@ Kuudra Cooldown Skip Module for Hypixel Skyblock
 - Set a player to skip with and store it so retyping usernames are not needed
 
 ## Installation
-1. Make sure Minecraft forge is installed for version 1.8.9
-    - Download: https://files.minecraftforge.net/net/minecraftforge/forge/index_1.8.9.html
-2. Download the latest verion of ChatTriggers and put it in your `mods` folder
-    - Download: https://www.chattriggers.com/#download
+1. Make sure [Minecraft Forge](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.8.9.html) is installed for version 1.8.9
+2. Download the latest verion of [ChatTriggers](https://www.chattriggers.com/#download) and put it in your `mods` folder
 3. Launch Minecraft and execute the command `/ct files`
 4. In the window that pops up, open the `modules` folder
-5. Download the kuudra-cooldown-skip archive from the releases page
+5. Download the kuudra-cooldown-skip archive from the [releases](https://github.com/shmoe6/kuudra-cooldown-skip/releases) page
 6. Extract the archive and move the enclosed `cdskip` folder into the already open `modules` folder
 7. Run `/ct load` in game to refresh modules
 
