@@ -1,0 +1,10 @@
+{
+  "name": "cdskip",
+  "creator": "anna (shmoe)",
+  "version": "0.1.1",
+  "entry": "index.js",
+  "requires": [
+    "PogData",
+    "request"
+  ]
+}
